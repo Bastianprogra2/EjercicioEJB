@@ -12,13 +12,13 @@
     <div class="nav-wrapper">
       <a href="#" class="brand-logo">Seleccione Tabla a ver -></a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
-          <li><a href="mascota.jsp">Mascota</a></li>
+          <li><a href="mascota.jsp">Mascotas</a></li>
         <li><a href="badges.html">Producto</a></li>
         <li><a href="collapsible.html">Disco Musical</a></li>
       </ul>
     </div>
   </nav>
-            
+          
             
         </div>
         
